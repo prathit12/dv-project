@@ -1,0 +1,353 @@
+long_title,0,1
+(Aorto)coronary bypass of four or more coronary arteries,0.0,1.0
+(Aorto)coronary bypass of one coronary artery,0.0,1.0
+(Aorto)coronary bypass of three coronary arteries,0.0,1.0
+(Aorto)coronary bypass of two coronary arteries,0.0,1.0
+Alcohol detoxification,0.0,1.0
+Allogeneic hematopoietic stem cell transpant without purging,0.0,1.0
+Anastomosis of hepatic duct to gastrointestinal tract,0.0,1.0
+Angiocardiography of left heart structures,0.0,1.0
+Angioplasty of other non-coronary vessel(s),0.0,1.0
+Aortography,0.0,1.0
+Application of other wound dressing,0.0,1.0
+Application or administration of an adhesion barrier substance,0.0,1.0
+Arterial catheterization,0.1,0.9
+Arteriography of cerebral arteries,0.0,1.0
+Arteriography of femoral and other lower extremity arteries,0.0,1.0
+Arteriography of other intra-abdominal arteries,0.0,1.0
+Arteriography of other specified sites,0.0,1.0
+Arteriography of renal arteries,0.0,1.0
+"Assistance with Cardiac Output using Balloon Pump, Continuous",0.0,1.0
+"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure",0.0,1.0
+Attachment of pedicle or flap graft to other sites,0.0,1.0
+Automatic implantable cardioverter/defibrillator (AICD) check,0.0,1.0
+Beam Radiation of Chest using Photons 1 - 10 MeV,1.0,0.0
+Beam Radiation of Spleen using Photons 1 - 10 MeV,0.0,1.0
+Biopsy of anus,0.0,1.0
+Biopsy of bone marrow,0.0,1.0
+"Biopsy of bone, femur",0.0,1.0
+Biopsy of lymphatic structure,0.0,1.0
+"Bypass Coronary Artery, One Artery from Aorta with Autologous Venous Tissue, Open Approach",0.0,1.0
+"Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Arterial Tissue, Open Approach",0.0,1.0
+"Bypass Coronary Artery, One Artery from Left Internal Mammary, Open Approach",0.0,1.0
+"Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Arterial Tissue, Open Approach",0.0,1.0
+"Bypass Coronary Artery, Three Arteries from Aorta with Autologous Venous Tissue, Open Approach",0.0,1.0
+"Bypass Coronary Artery, Two Arteries from Coronary Artery, Open Approach",0.0,1.0
+"Bypass Left Femoral Artery to Popliteal Artery with Autologous Venous Tissue, Open Approach",0.0,1.0
+Cardiac mapping,0.0,1.0
+Catheter based invasive electrophysiologic testing,0.0,1.0
+Central venous catheter placement with guidance,0.0,1.0
+"Change Feeding Device in Lower Intestinal Tract, External Approach",0.0,1.0
+"Change Other Device in Trunk Subcutaneous Tissue and Fascia, External Approach",0.0,1.0
+Clipping of aneurysm,0.0,1.0
+Closed [aspiration] [needle] [percutaneous] biopsy of pancreas,0.0,1.0
+Closed [endoscopic] biopsy of bronchus,0.0,1.0
+Closed [percutaneous] [needle] biopsy of kidney,0.0,1.0
+Closed endoscopic biopsy of lung,0.0,1.0
+"Closed reduction of fracture with internal fixation, femur",0.3333333333333333,0.6666666666666666
+Closure of stoma of small intestine,0.0,1.0
+Colonoscopy,0.0,1.0
+Combined right and left heart angiocardiography,0.0,1.0
+Combined right and left heart cardiac catheterization,0.0,1.0
+Continuous invasive mechanical ventilation for 96 consecutive hours or more,0.14285714285714285,0.8571428571428571
+Continuous invasive mechanical ventilation for less than 96 consecutive hours,0.13333333333333333,0.8666666666666667
+"Control Bleeding in Abdominal Wall, Open Approach",0.0,1.0
+Control of epistaxis by anterior nasal packing,1.0,0.0
+Coronary arteriography using two catheters,0.0,1.0
+"Destruction of Duodenum, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Destruction of Left Main Bronchus, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Destruction of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Destruction of Right Main Bronchus, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Detachment at Right 2nd Toe, Complete, Open Approach",0.0,1.0
+Diagnostic ultrasound of abdomen and retroperitoneum,0.0,1.0
+Diagnostic ultrasound of digestive system,0.0,1.0
+Diagnostic ultrasound of heart,0.0,1.0
+"Dilation of Coronary Artery, One Artery with Drug-eluting Intraluminal Device, Percutaneous Approach",0.0,1.0
+"Dilation of Coronary Artery, Two Arteries with Drug-eluting Intraluminal Device, Percutaneous Approach",0.0,1.0
+"Dilation of Left Brachial Vein, Percutaneous Approach",0.0,1.0
+"Dilation of Left Cephalic Vein, Percutaneous Approach",0.0,1.0
+"Dilation of Left Common Iliac Vein with Intraluminal Device, Percutaneous Approach",0.0,1.0
+"Dilation of Left External Iliac Vein with Intraluminal Device, Percutaneous Approach",0.0,1.0
+"Dilation of Left Main Bronchus with Intraluminal Device, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Dilation of Lower Esophagus with Intraluminal Device, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Dilation of Right Main Bronchus with Intraluminal Device, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Dilation of Right Ureter with Intraluminal Device, Via Natural or Artificial Opening Endoscopic",1.0,0.0
+"Drainage of Cerebral Ventricle with Drainage Device, Open Approach",1.0,0.0
+"Drainage of Left Lower Lobe Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.5,0.5
+"Drainage of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.0,1.0
+"Drainage of Left Main Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.5,0.5
+"Drainage of Left Pleural Cavity, Percutaneous Approach",0.0,1.0
+"Drainage of Left Pleural Cavity, Percutaneous Approach, Diagnostic",0.0,1.0
+"Drainage of Left Upper Lobe Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.0,1.0
+"Drainage of Pericardial Cavity with Drainage Device, Percutaneous Approach",0.0,1.0
+"Drainage of Pericardial Cavity, Percutaneous Approach",0.0,1.0
+"Drainage of Peritoneal Cavity, Percutaneous Approach",0.4,0.6
+"Drainage of Peritoneal Cavity, Percutaneous Approach, Diagnostic",0.2857142857142857,0.7142857142857143
+"Drainage of Right Hip Joint, Percutaneous Approach, Diagnostic",0.0,1.0
+"Drainage of Right Lower Lobe Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",1.0,0.0
+"Drainage of Right Main Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",1.0,0.0
+"Drainage of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Drainage of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.0,1.0
+"Drainage of Right Pleural Cavity with Drainage Device, Percutaneous Approach",0.75,0.25
+"Drainage of Right Upper Lobe Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.0,1.0
+"Drainage of Stomach with Drainage Device, Percutaneous Approach",0.0,1.0
+"Drainage of Stomach, Percutaneous Approach, Diagnostic",0.0,1.0
+Drainage of pancreatic cyst by catheter,0.0,1.0
+Endoscopic control of gastric or duodenal bleeding,0.0,1.0
+Endoscopic insertion of stent (tube) into bile duct,0.0,1.0
+Endoscopic insertion of stent (tube) into pancreatic duct,0.0,1.0
+Endoscopic removal of stone(s) from biliary tract,0.0,1.0
+Endoscopic sphincterotomy and papillotomy,0.0,1.0
+Endovascular (total) embolization or occlusion of head and neck vessels,0.0,1.0
+Enteral infusion of concentrated nutritional substances,0.05555555555555555,0.9444444444444444
+Esophagogastroduodenoscopy [EGD] with closed biopsy,0.0,1.0
+"Excision of Abdomen Skin, External Approach, Diagnostic",1.0,0.0
+"Excision of Cecum, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.0,1.0
+"Excision of Cerebral Ventricle, Open Approach",0.0,1.0
+"Excision of Cervical Vertebral Disc, Open Approach",0.0,1.0
+"Excision of Descending Colon, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.0,1.0
+"Excision of Left Foot Tendon, Open Approach",0.0,1.0
+"Excision of Left Internal Mammary Artery, Percutaneous Endoscopic Approach",0.0,1.0
+"Excision of Left Lower Leg Subcutaneous Tissue and Fascia, Open Approach",0.0,1.0
+"Excision of Left Main Bronchus, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Excision of Left Main Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.0,1.0
+"Excision of Left Saphenous Vein, Open Approach",0.0,1.0
+"Excision of Left Saphenous Vein, Percutaneous Endoscopic Approach",0.0,1.0
+"Excision of Left Upper Lobe Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.0,1.0
+"Excision of Right Foot Subcutaneous Tissue and Fascia, Open Approach",0.0,1.0
+"Excision of Right Internal Mammary Artery, Percutaneous Endoscopic Approach",0.0,1.0
+"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Excision of Right Main Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.0,1.0
+"Excision of Right Metatarsal, Open Approach",0.0,1.0
+"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.0,1.0
+"Excision of Right Saphenous Vein, Percutaneous Endoscopic Approach",0.0,1.0
+"Excision of Thorax Lymphatic, Percutaneous Endoscopic Approach, Diagnostic",0.0,1.0
+Excision of axillary lymph node,0.0,1.0
+"Excision of bone for graft, unspecified site",0.0,1.0
+Excision of dental lesion of jaw,0.0,1.0
+Excision of other bile duct,0.0,1.0
+"Excision or destruction of other lesion or tissue of heart, endovascular approach",0.0,1.0
+"Excision or destruction of other lesion or tissue of heart, open approach",0.0,1.0
+"Excisional debridement of wound, infection, or burn",0.0,1.0
+"Extirpation of Matter from Coronary Artery, One Artery, Percutaneous Approach",0.0,1.0
+"Extirpation of Matter from Intracranial Subdural Space, Open Approach",1.0,0.0
+"Extirpation of Matter from Left Common Iliac Vein, Percutaneous Approach",0.0,1.0
+"Extirpation of Matter from Left Femoral Vein, Percutaneous Approach",0.0,1.0
+"Extirpation of Matter from Left Lower Lobe Bronchus, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Extirpation of Matter from Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",1.0,0.0
+"Extirpation of Matter from Left Main Bronchus, Via Natural or Artificial Opening Endoscopic",0.6666666666666666,0.3333333333333333
+"Extirpation of Matter from Lung Lingula, Via Natural or Artificial Opening Endoscopic",1.0,0.0
+"Extirpation of Matter from Right External Carotid Artery, Open Approach",0.0,1.0
+"Extirpation of Matter from Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Extirpation of Matter from Stomach, Via Natural or Artificial Opening Endoscopic",1.0,0.0
+Extracorporeal circulation auxiliary to open heart surgery,0.0,1.0
+"Extraction of Iliac Bone Marrow, Percutaneous Approach, Diagnostic",0.0,1.0
+"Extraction of Left Lower Leg Subcutaneous Tissue and Fascia, Open Approach",0.0,1.0
+"Extraction of Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach",0.0,1.0
+"Extraction of Stomach, Via Natural or Artificial Opening Endoscopic, Diagnostic",0.0,1.0
+Extraction of other tooth,0.0,1.0
+Fiber-optic bronchoscopy,0.0,1.0
+Fluoroscopy of Abdominal Aorta,0.0,1.0
+Fluoroscopy of Dialysis Shunt/Fistula using Low Osmolar Contrast,0.0,1.0
+Fluoroscopy of Inferior Mesenteric Artery using Other Contrast,1.0,0.0
+"Fluoroscopy of Left Kidney, Ureter and Bladder using Other Contrast",1.0,0.0
+Fluoroscopy of Left Lower Extremity Arteries using Other Contrast,0.0,1.0
+Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast,0.0,1.0
+Fluoroscopy of Multiple Coronary Arteries using Other Contrast,0.2857142857142857,0.7142857142857143
+Fluoroscopy of Right Heart using Other Contrast,1.0,0.0
+"Fluoroscopy of Right Kidney, Ureter and Bladder using Other Contrast",1.0,0.0
+Fluoroscopy of Superior Mesenteric Artery using Other Contrast,1.0,0.0
+"Fluoroscopy of Superior Vena Cava using Other Contrast, Guidance",1.0,0.0
+"Fusion of 8 or more Thoracic Vertebral Joints with Autologous Tissue Substitute, Posterior Approach, Posterior Column, Open Approach",0.0,1.0
+"Fusion of Cervical Vertebral Joint with Autologous Tissue Substitute, Posterior Approach, Posterior Column, Open Approach",0.0,1.0
+"Fusion of Cervical Vertebral Joint with Interbody Fusion Device, Anterior Approach, Anterior Column, Open Approach",0.0,1.0
+Fusion or refusion of 2-3 vertebrae,0.0,1.0
+Hemodialysis,0.0,1.0
+"Ileostomy, not otherwise specified",0.0,1.0
+"Implantation of cardiac resynchronization defibrillator, total system [CRT-D]",0.0,1.0
+"Implantation or replacement of carotid sinus stimulation device, total system",0.0,1.0
+Incision with removal of foreign body or device from skin and subcutaneous tissue,0.0,1.0
+Infusion of 4-Factor Prothrombin Complex Concentrate,1.0,0.0
+Injection of anesthetic into spinal canal for analgesia,0.0,1.0
+Injection or infusion of cancer chemotherapeutic substance,0.0,1.0
+Injection or infusion of thrombolytic agent,0.0,1.0
+Insertion of (naso-)intestinal tube,0.0,1.0
+"Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening",0.4,0.6
+"Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Insertion of Feeding Device into Duodenum, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Insertion of Feeding Device into Jejunum, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Insertion of Feeding Device into Stomach, Percutaneous Approach",0.0,1.0
+"Insertion of Infusion Device into Left Femoral Artery, Percutaneous Approach",1.0,0.0
+"Insertion of Infusion Device into Right Atrium, Percutaneous Approach",0.2857142857142857,0.7142857142857143
+"Insertion of Infusion Device into Right Femoral Vein, Percutaneous Approach",0.0,1.0
+"Insertion of Infusion Device into Right Internal Jugular Vein, Percutaneous Approach",0.0,1.0
+"Insertion of Infusion Device into Superior Vena Cava, Percutaneous Approach",0.30434782608695654,0.6956521739130435
+"Insertion of Intraluminal Device into Inferior Vena Cava, Percutaneous Approach",0.0,1.0
+"Insertion of Intramedullary Internal Fixation Device into Left Upper Femur, Percutaneous Approach",0.0,1.0
+"Insertion of Monitoring Device into Pulmonary Trunk, Percutaneous Approach",0.0,1.0
+"Insertion of Monitoring Device into Upper Artery, Percutaneous Approach",0.0,1.0
+"Insertion of Tunneled Vascular Access Device into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach",0.0,1.0
+Insertion of biological graft,0.0,1.0
+Insertion of catheter into spinal canal for infusion of therapeutic or palliative substances,0.0,1.0
+Insertion of drug-eluting coronary artery stent(s),0.0,1.0
+Insertion of endotracheal tube,0.09090909090909091,0.9090909090909091
+Insertion of intercostal catheter for drainage,0.0,1.0
+Insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s),0.0,1.0
+Insertion of one vascular stent,0.0,1.0
+Insertion or replacement of epicardial lead [electrode] into epicardium,0.0,1.0
+Insertion or replacement of external ventricular drain [EVD],0.3333333333333333,0.6666666666666666
+Insertion or replacement of other neurostimulator pulse generator,0.0,1.0
+"Inspection of Bladder, Via Natural or Artificial Opening Endoscopic",1.0,0.0
+"Inspection of Gastrointestinal Tract, Open Approach",0.0,1.0
+"Inspection of Larynx, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Inspection of Lower Intestinal Tract, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Inspection of Tracheobronchial Tree, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Inspection of Upper Intestinal Tract, Via Natural or Artificial Opening Endoscopic",0.3333333333333333,0.6666666666666666
+"Internal fixation of bone without fracture reduction, femur",0.0,1.0
+Intra-abdominal venous shunt,1.0,0.0
+"Intravascular pressure measurement, other specified and unspecified vessels",0.0,1.0
+"Introduction of Nutritional Substance into Central Vein, Percutaneous Approach",1.0,0.0
+"Introduction of Nutritional Substance into Lower GI, Via Natural or Artificial Opening",0.0,1.0
+"Introduction of Nutritional Substance into Peripheral Vein, Percutaneous Approach",0.0,1.0
+"Introduction of Nutritional Substance into Upper GI, Via Natural or Artificial Opening",0.5,0.5
+"Introduction of Other Antineoplastic into Central Vein, Percutaneous Approach",0.25,0.75
+"Introduction of Other Therapeutic Substance into Heart, Open Approach",0.0,1.0
+"Introduction of Other Therapeutic Substance into Peripheral Artery, Percutaneous Approach",0.0,1.0
+"Introduction of Other Therapeutic Substance into Upper GI, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Introduction of Other Thrombolytic into Central Vein, Percutaneous Approach",0.0,1.0
+"Introduction of Other Thrombolytic into Peripheral Vein, Percutaneous Approach",0.0,1.0
+"Irrigation of Genitourinary Tract using Irrigating Substance, Via Natural or Artificial Opening",0.0,1.0
+Irrigation of ear,0.0,1.0
+Laparoscopic cholecystectomy,0.0,1.0
+Laparoscopic lysis of peritoneal adhesions,0.0,1.0
+Laparoscopic partial cholecystectomy,0.0,1.0
+Laparoscopic removal of both ovaries and tubes at same operative episode,0.0,1.0
+Laparoscopic robotic assisted procedure,0.0,1.0
+Laparoscopic total abdominal hysterectomy,0.0,1.0
+Laryngoscopy and other tracheoscopy,1.0,0.0
+Left heart cardiac catheterization,0.0,1.0
+"Local excision of lesion or tissue of bone, other bones",0.0,1.0
+"Lumbar and lumbosacral fusion of the posterior column, posterior technique",0.0,1.0
+"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach",0.0,1.0
+"Measurement of Cardiac Sampling and Pressure, Right Heart, Percutaneous Approach",0.5,0.5
+Mediastinoscopy,0.0,1.0
+"Monitoring of Arterial Pressure, Pulmonary, Percutaneous Approach",0.0,1.0
+"Monitoring of Cardiac Output, Percutaneous Approach",0.0,1.0
+Non-invasive mechanical ventilation,0.0,1.0
+"Nonexcisional debridement of wound, infection or burn",0.0,1.0
+"Occlusion of Esophageal Vein with Extraluminal Device, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Occlusion of Gastric Artery with Intraluminal Device, Percutaneous Approach",0.5,0.5
+"Occlusion of Hepatic Artery with Intraluminal Device, Percutaneous Approach",0.0,1.0
+"Occlusion of Right Femoral Artery with Intraluminal Device, Percutaneous Approach",1.0,0.0
+"Occlusion of Right Vertebral Artery with Intraluminal Device, Percutaneous Approach",1.0,0.0
+Open abdominoperineal resection of the rectum,0.0,1.0
+Open and other cecectomy,0.0,1.0
+Open and other replacement of aortic valve,0.0,1.0
+Open and other replacement of aortic valve with tissue graft,0.0,1.0
+Open and other right hemicolectomy,0.0,1.0
+Open biopsy of lung,0.0,1.0
+Open heart valvuloplasty of mitral valve without replacement,0.0,1.0
+"Open reduction of fracture with internal fixation, humerus",0.0,1.0
+Other and open repair of other hernia of anterior abdominal wall with graft or prosthesis,0.0,1.0
+Other and unspecified pneumonectomy,0.0,1.0
+Other appendectomy,0.0,1.0
+Other bronchoscopy,0.0,1.0
+Other computer assisted surgery,0.0,1.0
+Other craniotomy,0.0,1.0
+Other cystoscopy,0.0,1.0
+Other destruction of lesion of liver,0.0,1.0
+Other diagnostic procedures on lung or bronchus,0.0,1.0
+Other diagnostic procedures on nasal sinuses,0.0,1.0
+Other electric countershock of heart,0.0,1.0
+Other electroshock therapy,0.0,1.0
+Other endoscopy of small intestine,0.1111111111111111,0.8888888888888888
+Other endovascular procedures on other vessels,0.0,1.0
+Other enterostomy,0.0,1.0
+Other excision or destruction of lesion or tissue of brain,0.0,1.0
+Other excision or destruction of lesion or tissue of pancreas or pancreatic duct,0.0,1.0
+Other fasciectomy,0.0,1.0
+"Other immobilization, pressure, and attention to wound",0.0,1.0
+Other incision of brain,0.0,1.0
+Other incision of pleura,0.0,1.0
+Other incision with drainage of skin and subcutaneous tissue,0.0,1.0
+Other laparoscopic umbilical herniorrhaphy,0.0,1.0
+Other laparotomy,0.0,1.0
+Other lysis of peritoneal adhesions,0.0,1.0
+Other nonoperative replacements,0.0,1.0
+Other open umbilical herniorrhaphy,0.0,1.0
+"Other operations on carotid body, carotid sinus and other vascular bodies",0.0,1.0
+Other operations on intestines,0.0,1.0
+"Other partial ostectomy, tarsals and metatarsals",0.0,1.0
+Other partial resection of small intestine,0.0,1.0
+Other radiotherapeutic procedure,0.0,1.0
+Other repair and plastic operations on bronchus,0.0,1.0
+Other repair of chest wall,0.0,1.0
+Other repair of mesentery,0.0,1.0
+Other repair of vessel,0.0,1.0
+Other skin graft to other sites,0.0,1.0
+Parenteral infusion of concentrated nutritional substances,0.0,1.0
+Partial hepatectomy,0.0,1.0
+Percutaneous [endoscopic] gastrostomy [PEG],0.0,1.0
+Percutaneous abdominal drainage,0.25,0.75
+Percutaneous aspiration of liver,0.0,1.0
+Percutaneous balloon valvuloplasty,0.0,1.0
+Percutaneous transluminal coronary angioplasty [PTCA],0.0,1.0
+"Performance of Cardiac Output, Continuous",0.0,1.0
+"Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day",0.0,1.0
+"Performance of Urinary Filtration, Multiple",0.25,0.75
+"Performance of Urinary Filtration, Single",1.0,0.0
+Peritoneal lavage,0.0,1.0
+Pharyngoscopy,0.0,1.0
+"Pheresis of Plasma, Multiple",1.0,0.0
+Phlebography of the portal venous system using contrast material,0.0,1.0
+Procedure on single vessel,0.0,1.0
+Procedure on two vessels,0.0,1.0
+Radical excision of other lymph nodes,0.0,1.0
+Regional lymph node excision,0.0,1.0
+"Release Small Intestine, Open Approach",0.0,1.0
+"Removal of Infusion Device from Heart, External Approach",0.0,1.0
+"Removal of Intraluminal Device from Ureter, Via Natural or Artificial Opening Endoscopic",1.0,0.0
+"Removal of Tunneled Vascular Access Device from Trunk Subcutaneous Tissue and Fascia, External Approach",0.0,1.0
+Removal of other device from thorax,0.0,1.0
+Reopening of recent laparotomy site,0.0,1.0
+Reopening of recent thoracotomy site,0.0,1.0
+"Repair Duodenum, Via Natural or Artificial Opening Endoscopic",0.0,1.0
+"Repair Upper Artery, Open Approach",0.0,1.0
+Repair of atrial septal defect with tissue graft,0.0,1.0
+Repair of blood vessel with tissue patch graft,0.0,1.0
+Repair of other hernia of anterior abdominal wall,0.0,1.0
+Repair of rectocele with graft or prosthesis,0.0,1.0
+"Replacement of Aortic Valve with Zooplastic Tissue, Open Approach",0.0,1.0
+"Replacement of Aortic Valve with Zooplastic Tissue, Percutaneous Approach",0.0,1.0
+Replacement of stent (tube) in biliary or pancreatic duct,0.0,1.0
+"Reposition Left Mandible with External Fixation Device, Percutaneous Approach",0.0,1.0
+"Reposition Left Maxilla with External Fixation Device, Percutaneous Approach",0.0,1.0
+"Reposition Right Mandible with Internal Fixation Device, Open Approach",0.0,1.0
+"Reposition Right Tibia with Intramedullary Internal Fixation Device, Open Approach",0.0,1.0
+"Resection of vessel with replacement, thoracic vessels",0.0,1.0
+"Respiratory Ventilation, 24-96 Consecutive Hours",0.375,0.625
+"Respiratory Ventilation, Greater than 96 Consecutive Hours",0.5555555555555556,0.4444444444444444
+"Respiratory Ventilation, Less than 24 Consecutive Hours",0.0,1.0
+"Restriction of Intracranial Artery with Intraluminal Device, Percutaneous Approach",0.0,1.0
+"Restriction of Left Internal Carotid Artery with Intraluminal Device, Percutaneous Approach",0.0,1.0
+Rhinoscopy,1.0,0.0
+Right heart cardiac catheterization,0.0,1.0
+Simple excision of other lymphatic structure,0.0,1.0
+Single internal mammary-coronary artery bypass,0.0,1.0
+Spinal tap,0.0,1.0
+Subtotal mastectomy,0.0,1.0
+"Supplement Dura Mater with Nonautologous Tissue Substitute, Open Approach",1.0,0.0
+"Supplement Right Common Carotid Artery with Nonautologous Tissue Substitute, Open Approach",0.0,1.0
+"Supplement Right External Carotid Artery with Nonautologous Tissue Substitute, Open Approach",0.0,1.0
+Thoracentesis,0.0,1.0
+Thoracoscopic decortication of lung,0.0,1.0
+Thoracoscopic lobectomy of lung,0.0,1.0
+Total esophagectomy,0.0,1.0
+Transcatheter embolization for gastric or duodenal bleeding,0.0,1.0
+"Transfusion of Nonautologous 4-Factor Prothrombin Complex Concentrate into Vein, Percutaneous Approach",0.0,1.0
+Transplant from live related donor,0.0,1.0
+"Ultrasonography of Right Jugular Veins, Intravascular",0.0,1.0
+"Ultrasonography of Right Lower Extremity Veins, Guidance",0.0,1.0
+"Ultrasonography of Superior Vena Cava, Guidance",0.16666666666666666,0.8333333333333334
+Unilateral simple mastectomy,0.0,1.0
+"Venous catheterization, not elsewhere classified",0.23076923076923078,0.7692307692307693
